@@ -588,7 +588,7 @@
     };
 
     qmk-nvim = {
-      url = "github:codethread/qmk.nvim";A
+      url = "github:codethread/qmk.nvim";
       flake = false;
     };
   };
