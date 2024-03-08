@@ -3,6 +3,7 @@ with lib; let
   # Plugin must be same as input name from flake.nix
   availablePlugins = [
     # TODO: sort by category
+    "qmk-nvim"
     "nvim-treesitter-context"
     "gitsigns-nvim"
     "plenary-nvim"
