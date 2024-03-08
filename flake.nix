@@ -138,7 +138,7 @@
       url = "github:simrat39/rust-tools.nvim";
       flake = false;
     };
-
+    
     flutter-tools = {
       url = "github:akinsho/flutter-tools.nvim";
       flake = false;
@@ -584,6 +584,11 @@
 
     vim-repeat = {
       url = "github:tpope/vim-repeat";
+      flake = false;
+    };
+
+    qmk-nvim = {
+      url = "github:codethread/qmk.nvim";A
       flake = false;
     };
   };
